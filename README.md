@@ -44,19 +44,13 @@
 
 ## 🚀 Getting Started
 
-### 1. Clone the Repository
+###  Clone the Repository
 
 ```bash
 git clone https://github.com/your-username/employwise.git
 cd employwise
 
 
-2. **Install Dependencies**:
-   ```sh
-   npm install
-   ```
-3. **Start the Application**
-   ```sh
-   npm start
-   ```
+
+
    
